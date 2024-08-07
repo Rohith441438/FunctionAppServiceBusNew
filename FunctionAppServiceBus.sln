@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppServiceBus", "FunctionAppServiceBus\FunctionAppServiceBus.csproj", "{4A2CC044-9603-4BDD-A535-43A18DCB5132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A2CC044-9603-4BDD-A535-43A18DCB5132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2CC044-9603-4BDD-A535-43A18DCB5132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2CC044-9603-4BDD-A535-43A18DCB5132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2CC044-9603-4BDD-A535-43A18DCB5132}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D552C1D2-781C-4CE7-95D3-4C59727A5EF9}
+	EndGlobalSection
+EndGlobal
